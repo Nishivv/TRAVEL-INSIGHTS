@@ -4,19 +4,12 @@ This project provides detailed travel-related insights using Power BI based on a
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard Screenshot](your_dashboard_image_link_here)
-
----
-
 ## 🧾 Project Summary
 
 - **Tool Used:** Microsoft Power BI
 - **Data Sources:**
   - `TripData`: Contains details of each trip (pickup time, drop time, distance, fare, payment mode, etc.)
   - `Location`: Maps location IDs to real city names.
-  - `Date`: Provides time intelligence including day, month, and year breakdowns.
 
 ---
 
@@ -42,18 +35,6 @@ This project provides detailed travel-related insights using Power BI based on a
 - **Mode of Payment Analysis** – Cash vs UPI
 - **Total Minutes by Location**
 
----
-
-## 💡 Additional Insights Built
-
-1. **Most Frequent Routes**  
-2. **Average Fare per KM by Location**  
-3. **Rush Hour vs Non-Rush Hour Distribution**  
-4. **Trip Efficiency Score (Distance / Time)**  
-5. **Payment Method Trends by Location**  
-6. **Revenue by Passenger Group Size**  
-7. **Surge Fee Trends by Hour of Day**  
-8. **Trip Duration by Day of Week**
 
 ---
 
@@ -76,20 +57,13 @@ This project provides detailed travel-related insights using Power BI based on a
 
 ---
 
-## 🚀 How to Use
-
-1. Open `Power BI Desktop`.
-2. Load the provided `.pbix` file or connect to your source tables.
-3. Use filters (slicers) to explore by day, location, time period, or payment mode.
-4. Customize or expand visualizations using DAX or Power BI visuals.
-
----
 
 ## 📁 Files Included
 
 - `TravelInsights.pbix` – Main Power BI dashboard file
 - `README.md` – Project documentation
 - Sample screenshots of dashboard (for GitHub preview)
+- Raw Data Excel File of Tables (Trip Data and Location).
 
 ---
 
@@ -103,8 +77,8 @@ This project provides detailed travel-related insights using Power BI based on a
 
 ## 🙌 Credits
 
-Created by [Your Name] – Aspiring Data Analyst  
-Connect with me on [LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+Created by Nishi Vijayvargiy – Aspiring Data Analyst  
+Connect with me on [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/nishi-vijayvargiya-849577192/)) | [GitHub]([your-github-url](https://github.com/Nishivv))
 
 ---
 
